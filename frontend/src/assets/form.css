@@ -1,0 +1,35 @@
+.view-body {
+    margin: 35px;
+    display: flex;
+    flex-direction: column;
+}
+
+.view-body form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.form-part {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.view-body label {
+    font-size: 22px;
+}
+
+.view-body input {
+    font-size: 18px;
+    padding: 5px;
+    width: 35%;
+}
+
+.form-button {
+    width: 35%;
+    padding: 8px;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
